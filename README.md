@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JessePawis-Steckley
+- 👋 Hi, I’m Jesse Pawis-Steckley
 - 👀 I’m interested in Basic Web Development
 - 🌱 I’m currently learning HTML, CSS, Java Script,
 - 💞️ I’m looking to collaborate on Website Development
